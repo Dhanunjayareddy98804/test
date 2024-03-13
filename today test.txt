@@ -1,0 +1,68 @@
+2)the 10 keywords in java are:
+int: it is used for numbers 
+long : it is used for length
+char : it is used for characters
+void : it is used as variable
+return  : it is used for returning the value once execution is completed
+public : it is used access specifier it is avialble to all the users.
+static : it is used 
+else : it is used condition to check false.
+boolean : it used for to check whether it is true or false.
+class : it is real world objects
+
+
+4)variable : : It is a container used to store data which can be used in the later stages of the program.
+
+types of variable are:
+static : it is declaring method ouside the body
+local : it is declaring meyhod inside the body 
+instance  : without static declaring class outside of method
+parameter : it is delcaring inside the methods
+
+5)difference btw primitive and non primtive
+
+primitive :
+1)In this it as size depend on the data type
+2)start with lowercase letter
+3)already existed in java
+4)it always have a some value
+5)examples of primtive are int ,char ,float ,double
+
+non primitive:
+1)start with uppercase
+2)here the size is not there
+3)it is consists of null value
+4)examples of non primitive are .class ,string ,reference
+
+6)identifier : name given to the variables.
+Any name which is used in source code is called identifier.
+Example: class name, argument name etc.
+
+keywords:
+keywords are pre-defined words which has some meaning.
+ 		Example:   int, float, char etc.
+		Total keywords are: 50 + 3.
+
+literals:
+values assigned to any variables is referred as literals.
+
+arrays:Array is container which is used to store more than one value which is of similar data type.
+
+methods: :   Block of statement which is used to perform certain functionalities.
+
+7)method overloading :  two or more methods with same method name but differ in their parameter list is known as method overloading. 
+Parameter list:    a. Number of parameters.
+		        b. type of parameters.
+
+8).How do you write an infinite loop using the for statement?
+for(int index = 0; ;index++){
+	
+}
+
+10) Explain the main method?
+//public static void main(String args[])]
+
+<access modifiers> return type <method name> (parameter1, parameter2, parameter3, …………………., parametern) {
+	//body of method or block of method
+}
+
